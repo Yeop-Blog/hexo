@@ -20,7 +20,7 @@ categories: Java
 Java에서는 보통 여러 개의 Primitive Type(기본 자료형) 또는 Refrenece Type(인스턴스)을 저장 하기 위해 배열을 사용하곤 한다. 하지만 배열은 초기화 할 때 길이를 초기화 해야 하며, 생성된 배열은 동적으로 변경하기 어렵다는 단점이 있어 데이터 관리 하기에 불편한 점이 있다.
 
 배열과 Vector를 이용한 데이터 관리<br/>
-{% highlight java %}
+
 public class ListTest {
 	public String[] array = new String[10];
 	public Vector<String> vector = new Vector<String>();
@@ -31,7 +31,7 @@ public class ListTest {
 		System.out.println("Vector = " + vector.capacity());
 	}
 }
-{% endhighlight %}
+
 
 이런 부분 때문에 Java 1.0에서는 이러한 문제를 해소 하기 위해 Vector를 주로 사용하고는 했다. 하지만, Vector 역시 초기화 시 10으로 capacity가 정해져, capacity 이상이 되면 2배씩 늘려 나가게 되고 다수의 Thread에 대한 접근에 동기화를 보장하는 등의 성능 이슈 등으로 인해, 1.2이후 Version에서는 호환성을 위해 제공한다고 보면 되며, List 인터페이스를 구현한 List로 대체 되었다.
 

@@ -16,7 +16,7 @@ Java 언어의 핵심 목표는 다음과 같다<br/>
 – 다른 객체 지향 언어의 장점만 가져와 사용하기에 편해야 한다
 
 - 기본적인 Hello, World 구현<br/>
-{% highlight java %}
+
 public class HelloWorldApp {
   public static void main(String[] args) {
     System.out.println("Hello World!"); // Hello World 를 출력
@@ -27,4 +27,3 @@ public class HelloWorldApp {
     System.out.println("Hello World!"); // Hello World 를 출력
   }
 }
-{% endhighlight %}
