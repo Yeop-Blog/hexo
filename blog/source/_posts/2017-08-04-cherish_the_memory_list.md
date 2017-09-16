@@ -2,7 +2,9 @@
 title: 개인 프로젝트 정리 공간
 date: 2017-08-04 01:00:00
 tags:
-categories: Daily
+categories:
+- Life
+- Doodle
 ---
 #### 추모공간 사이트 제작
 - 개발 목적 : 어머니를 위한 온라인 추모 공간

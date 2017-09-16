@@ -2,7 +2,9 @@
 title: 블로그 이전했습니다
 date: 2017-08-03 00:00:00
 tags:
-categories: Daily
+categories:
+- Life
+- Doodle
 ---
 블로그 이전했습니다.
 
