@@ -5,6 +5,7 @@ tags:
 categories:
 - Life
 - Doodle
+thumbnail: /images/default_thumbnail.jpg
 ---
 #### 추모공간 사이트 제작
 - 개발 목적 : 어머니를 위한 온라인 추모 공간

@@ -3,6 +3,7 @@ title: IT직장인들(개발자,퍼블리셔) 포트폴리오 종류
 date: 2017-08-11 00:00:00
 tags:
 categories: Study
+thumbnail: /images/study_thumbnail.jpg
 ---
 1. 경재씨 포트폴리오
  - [http://syua.co.kr/profile/](http://syua.co.kr/profile/)

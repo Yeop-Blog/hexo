@@ -3,6 +3,7 @@ title: Javascript 스터디 시작
 date: 2017-08-24 00:00:00
 tags:
 categories: Study
+thumbnail: /images/study_thumbnail.jpg
 ---
 매주 토요일 Javascript 관련 스터디 시작
 

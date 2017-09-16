@@ -5,6 +5,7 @@ tags:
 categories:
 - Life
 - Health
+thumbnail: /images/default_thumbnail.jpg
 ---
 앞으로 지속적으로 운동하는 일정에 맞춰 작성할 예정  
 운동 종목은 기존에 했었던 헬스로 정했으며, 올림픽스포츠센터에 등록 완료  

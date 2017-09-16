@@ -3,6 +3,7 @@ title: Apache와 Tomcat의 차이
 date: 2017-08-07 00:00:00
 tags:
 categories: Java
+thumbnail: /images/java_thumbnail.jpg
 ---
 - Apache : apache라는 소프트웨어 단체에서 만든 오픈소스 http web server
 - Tomcat : was(web application server)라고 불리며, web server와 web container의 결합이라고 볼 수 있다.

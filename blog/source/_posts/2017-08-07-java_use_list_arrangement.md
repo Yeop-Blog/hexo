@@ -3,6 +3,7 @@ title: Java에서 사용하는 List에 대해 정리
 date: 2017-08-07 01:00:00
 tags:
 categories: Java
+thumbnail: /images/java_thumbnail.jpg
 ---
 출처1 : [http://ledgku.tistory.com/42](http://ledgku.tistory.com/42)<br/>
 출처2 : [http://stunstun.tistory.com/193](http://stunstun.tistory.com/193)
