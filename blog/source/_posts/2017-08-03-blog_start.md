@@ -5,6 +5,7 @@ tags:
 categories:
 - Life
 - Doodle
+thumbnail: /images/default_thumbnail.jpg
 ---
 블로그 이전했습니다.
 

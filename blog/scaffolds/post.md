@@ -5,5 +5,5 @@ categories:
   -
 tags:
   -
-thumbnail:
+thumbnail: /images/default_thumbnail.jpg
 ---
