@@ -4,5 +4,6 @@ date: {{ date }}
 categories:
   -
 tags:
-  - 
+  -
+thumbnail:
 ---
