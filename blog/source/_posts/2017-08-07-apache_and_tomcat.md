@@ -2,7 +2,9 @@
 title: Apache와 Tomcat의 차이
 date: 2017-08-07 00:00:00
 tags:
-categories: Java
+categories:
+- Language
+- Java
 thumbnail: /images/java_thumbnail.jpg
 ---
 - Apache : apache라는 소프트웨어 단체에서 만든 오픈소스 http web server
