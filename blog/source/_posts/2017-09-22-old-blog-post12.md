@@ -33,8 +33,8 @@ function printToday( {
       var today = new Date();
       document.write(today.toDateString());
 }
-```  
-실행을 하려면 ``printToday();``
+```
+ 실행을 하려면 ``printToday();``
 
 5. 함수에 정보를 건네줄 때는 **파라미터(parameter)**를 이용하면 된다.  
 기본 구조는 아래와 같다.
@@ -47,8 +47,8 @@ function print(message) {
       document.write(message);
 }
 ```
-실행을 하려면 ``print('Hello World!');``  
-파라미터 값은 여러개 추가가 가능하다.
+ 실행을 하려면 ``print('Hello World!');``  
+ 파라미터 값은 여러개 추가가 가능하다.
 ```javascript
 function functionName(parameter1, parameter2, parameter3) { }
 ```
