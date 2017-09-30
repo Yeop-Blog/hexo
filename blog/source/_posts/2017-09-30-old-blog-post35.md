@@ -3,7 +3,6 @@ title: 윈도우 탐색기에서 우측 클릭으로 바로 cmd창 실행하기
 thumbnail: /images/tip_thumbnail.jpg
 date: 2017-09-30 20:34:00
 categories:
-- Programming
 - Tip's
 tags:
 ---

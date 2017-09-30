@@ -3,8 +3,8 @@ title: 브라우저 창 닫기 소스
 thumbnail: /images/tip_thumbnail.jpg
 date: 2017-09-30 18:17:00
 categories:
-- Programming
-- Tip's
+- Language
+- JavaScript
 tags:
 ---
 팝업창이 아닌 일반 브라우저에서 브라우저를  

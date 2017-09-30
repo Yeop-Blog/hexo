@@ -3,8 +3,8 @@ title: DB LOCK 걸린것을 확인하는 쿼리문
 thumbnail: /images/tip_thumbnail.jpg
 date: 2017-09-30 20:23:00
 categories:
-- Programming
-- Tip's
+- DB
+- Etc
 tags:
 ---
 ~~~sql
