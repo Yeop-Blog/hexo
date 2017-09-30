@@ -18,7 +18,7 @@ tags:
 이런 방법은 google에서 'Command Prompt Here'로 검색해도 무수히 많이 나오는데, 레지스트리 이용 방법은 다 비슷하다.  
 오래전에 어디선가 다운받아 사용 하던것인데 가독성을 높이려고 메뉴 내용을 한글로 바꾸었다.
 
-[CmdContextInstall.reg 다운로드](https://yeop-blog.github.io/)
+[CmdContextInstall.reg 다운로드](https://yeop-blog.github.io/downloads/CmdContextInstall.zip)
 
 ~~~
 REGEDIT4
@@ -30,7 +30,7 @@ REGEDIT4
 63,6d,64,2e,65,78,65,22,20,2f,6b,20,63,64,20,2f,64,20,22,25,31,22,00
 ~~~
 
-[CmdContextUnInstall.reg 다운로드](https://yeop-blog.github.io/)
+[CmdContextUnInstall.reg 다운로드](https://yeop-blog.github.io/downloads/CmdContextUnInstall.zip)
 
 ~~~
 REGEDIT4
