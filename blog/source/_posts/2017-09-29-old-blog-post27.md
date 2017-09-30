@@ -4,7 +4,7 @@ thumbnail: /images/ide_thumbnail.jpg
 date: 2017-09-29 21:10:00
 categories:
 - Programming
-- IDE
+- IDE's
 tags:
 ---
 [Eclipse] 이클립스 오류  
