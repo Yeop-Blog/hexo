@@ -30,3 +30,6 @@ http://blog.naver.com/goldrushing?Redirect=Log&logNo=130147912701
 
 - MySQL 접속 및 데이터베이스 생성 및 삭제
 http://kch1183.blog.me/50100270327
+
+- SSD 초기화 하는 방법
+http://www.parkoz.com/zboard/view.php?id=my_tips&no=14807
