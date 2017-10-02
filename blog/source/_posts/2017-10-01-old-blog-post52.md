@@ -19,7 +19,7 @@ Ex) Win7의 경우 'C:\Program Files (x86)\Java\jdk1.6.0_32\bin' 경로에 존�
 <br>
 2. **JDK를 이용해 Tomcat 인증서를 생성한다.**  
 \- keytool -genkey -alias tomcat -keyalg RSA  
-{% img 1.png /images/post_images/old-blog-post52-1.png 첫번째 이미지 %}
+{% img /images/post_images/old-blog-post52-1.png 첫번째 이미지 %}
 <br>
 3. **생성된 .keystore 파일 확인**  
 \- 사용자 홈 폴더에 .keystore 파일이 생성되어 있음  

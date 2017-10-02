@@ -88,4 +88,4 @@ public class TestTagHandler extends TagSupport {
 ~~~
 ---
 결과화면  
-{% img 1.jpg /images/post_images/old-blog-post47-1.jpg 첫번째 이미지 %}
+{% img /images/post_images/old-blog-post47-1.jpg 첫번째 이미지 %}

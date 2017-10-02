@@ -33,3 +33,15 @@ http://kch1183.blog.me/50100270327
 
 - SSD 초기화 하는 방법
 http://www.parkoz.com/zboard/view.php?id=my_tips&no=14807
+
+- 오라클(Oracle) 페이징 기법
+http://blog.naver.com/korekiss/20035504181
+
+- MSSQL 2005 DTS 사용하기
+http://infomercial.tistory.com/180
+
+- MSSQL DB 백업 및 복원 방법
+http://blog.naver.com/PostView.nhn?blogId=82hyde&logNo=90047895423&categoryNo=93&viewDate=&currentPage=1&listtype=0​
+
+- 텍스트 에디터 Atom(아톰)의 설치와 기본설정
+http://dovetail.tistory.com/62

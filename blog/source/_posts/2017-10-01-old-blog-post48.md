@@ -21,7 +21,7 @@ net.sf.jadclipse_3.3.0.jar 파일을 복사 시킨후에 이클립스 다시 껐
 
 4. jad 설정  
 Window - Preferences - Java - JadClipse 클릭  
-{% img 1.jpg /images/post_images/old-blog-post48-1.jpg 첫번째 이미지 %}  
+{% img /images/post_images/old-blog-post48-1.jpg 첫번째 이미지 %}  
 만약에 Path to decompiler 설정에서 Path에 jad.exe가 잡혀있다면 jad만 쓰면 되지만 그렇지 않은 경우에는 jad.exe 파일이 있는 절대경로를 위와 같이 써줘야 한다.
 
 5. Apply -> OK를 하고 .class파일을 보게 되면 이클립스내에서 .class파일을 확인할 수 있다.

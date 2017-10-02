@@ -17,4 +17,4 @@ tags:
 - 해결
  - Windows -> Preferences -> Java -> Compiler -> Errors/Warnings
 
-{% img 1.png /images/post_images/old-blog-post57-1.png 첫번째 이미지 %}
+{% img /images/post_images/old-blog-post57-1.png 첫번째 이미지 %}

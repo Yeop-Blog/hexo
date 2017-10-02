@@ -16,7 +16,7 @@ Union은 두개 이상의 Table을 결합하여 마치 하나의 Table처럼 조
 Select * From Person.BusinessEntityAddress
 Select * From Person.BusinessEntityContact
 ~~~
-{% img 1.jpg /images/post_images/old-blog-post45-1.jpg 첫번째 이미지 %}
+{% img /images/post_images/old-blog-post45-1.jpg 첫번째 이미지 %}
 
 위의 두 Table에서 BusinessEntityID열만을 조회하여 보도록 하겠습니다. 이때 Union문을 통해 두 Table을 결합합니다.
 ~~~sql
@@ -26,7 +26,7 @@ Union
 Select BusinessEntityID
 From Person.BusinessEntityContact
 ~~~
-{% img 2.jpg /images/post_images/old-blog-post45-2.jpg 두번째 이미지 %}
+{% img /images/post_images/old-blog-post45-2.jpg 두번째 이미지 %}
 
 위에서 처럼 Union을 통해 각각의 Table을 결합하여 조회하려면 조회하고자 하는 Table의 열 형식이 같아야 합니다.(열의 이름은 상관없습니다.) 단, 형식이 같아야 한다는 조건은 조회하고자 하는 열에만 해당합니다. 조회대상이 아닌 열은 포함되지 않아도 됩니다.
 ~~~sql
@@ -36,7 +36,7 @@ Union
 Select FolderFlag
 From Production.Document
 ~~~
-{% img 3.jpg /images/post_images/old-blog-post45-3.jpg 세번째 이미지 %}
+{% img /images/post_images/old-blog-post45-3.jpg 세번째 이미지 %}
 
 이때 조회될때 표시되는 열 이름은 첫번째 Table의 열이름으로 정해지게 됩니다.
 
@@ -54,4 +54,4 @@ Select BusinessEntityID
 From Person.BusinessEntityContact
 Order By BusinessEntityID
 ~~~
-{% img 4.jpg /images/post_images/old-blog-post45-4.jpg 네번째 이미지 %}
+{% img /images/post_images/old-blog-post45-4.jpg 네번째 이미지 %}
